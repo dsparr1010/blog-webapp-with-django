@@ -1,0 +1,4 @@
+# ENVIRONMENT VARIABLES
+
+EMAIL_USER = testing
+EMAIL_PASS = testing
